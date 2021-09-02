@@ -1,3 +1,3 @@
-# Aprendiz TI
+# Projetos Fiap
 
-Atividade no HTML sobre hobbies.
+Repositorio criado para armazenar todos as atividades pela Fiap.
