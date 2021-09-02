@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Glory:ital,wght@1,400;1,500&display=swap');
+
+body{
+    font-family: 'Glory', sans-serif;
+   
+}
+ 
+div{ 
+    max-width: 600px;
+    min-width: 500px;
+    max-height: 300px;
+    min-height: 200px; 
+    margin: 20px auto;
+    border: 1px solid #383334;
+    padding: 10px;
+    box-sizing: border-box;
+    background-image: url(../images/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
