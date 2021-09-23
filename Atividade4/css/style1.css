@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+ 
+body { 
+
+    font-family: 'PT Sans', sans-serif;
+    background-image: url(../images/capa2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+    }
+    
+
+    h1 {
+        color:rgb(71, 67, 55);
+        font-size: 50px;
+        font-weight: 900px;
+    }
+
+   a { text-decoration: none;
+       font-size: 30px;
+       color:rgba(245, 239, 209, 0.918);
+       cursor: pointer;
+       font-weight: 800;
+       
+   }
+   a:hover {
+       text-decoration: underline;
+
+   }
+
+    div {
+        width: 450px;
+        height: 300px;
+        margin: 300px 50px;
+        padding: 20px;
+        box-sizing: border-box;
+        background-color: rgba(0, 0, 0, 0.199) ;
+        
+
+
+}
+
+

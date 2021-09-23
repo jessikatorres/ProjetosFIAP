@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+body { 
+
+    font-family: 'PT Sans', sans-serif;
+    background-image: url(../images/fundotela.png);
+
+    
+
+}
+img {
+    align-items: center;
+    padding: 20px 330px;
+    margin: auto;
+    
+    
+ }
+
+
+h1,h2,p {
+    color: white;
+    margin:40px
+    
+}
+h1 { 
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    font-weight: 600;
+
+}
+
+p { 
+    font-size: 20px;
+   
+}
+
+
+.link { 
+
+    color: rgb(139, 70, 70);
+    font-size: 20px;
+}
+a { text-decoration: none;
+    font-size: 30px;
+    color: rgb( 139, 70, 70);
+}
+    
+    
+a:hover {
+    color: rgb( 139, 70, 70);
+    text-decoration: underline;
+
+}
+.topopagina {
+    font-size: 10px;
+    text-align: right;
+    margin: 10px 30px;
+    
+}
