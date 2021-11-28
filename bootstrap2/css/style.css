@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,500&display=swap');
+
+
+.navbar-brand 
+{
+    font-family:'Open Sans', sans-serif;
+    font-size: 35px;
+
+}
+
+.navbar-toggler {
+
+background: #179dbe ;
+
+}
+
+.footer {
+height: 380px;
+margin: 15px;
+padding: 40px;
+font-size: 17px;
+background-color:rgb(14, 90, 128) ;
+text-align: center
+}
+
+.duvidas {
+list-style: none;
+
+}
+a:hover {
+    color:#000000 ;
+}
+
+.contato {
+    
+    padding:5px;
+    text-align: center;    
+}
+
+ 
